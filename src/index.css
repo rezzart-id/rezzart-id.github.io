@@ -5,9 +5,10 @@
 }
 
 body {
-    background-color: #23252C;
+    background:linear-gradient(to top, #bdc3c7, #2c3e50);
     color: #FFFFFF;
     margin: 0;
+    height: 100vh;
     font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
