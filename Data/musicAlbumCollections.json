@@ -1,0 +1,254 @@
+[
+    {
+        "entryType": "musicAlbumCollections",
+        "id": 1136791,
+        "fieldLayoutId": 156,
+        "title": "New Releases",
+        "slug": "newest-releases",
+        "sectionHandle": "musicAlbumCollections",
+        "dateCreated": {
+            "date": "2020-06-09 06:40:21.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "dateUpdated": {
+            "date": "2021-04-09 13:09:47.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "expiryDate": null,
+        "postDate": {
+            "date": "2020-06-09 06:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "author": "support@thepixelage.com",
+        "archived": false,
+        "enabled": true,
+        "status": "live",
+        "parent": null,
+        "ContentsFields": {
+            "musicAlbums": [
+                {
+                    "id": 1281459,
+                    "title": "Russian Spectacular",
+                    "slug": "russian-spectacular"
+                },
+                {
+                    "id": 1270498,
+                    "title": "Rachmaninov - Symphonies and Orchestral Music",
+                    "slug": "rachmaninov-symphonies-and-orchestral-music"
+                },
+                {
+                    "id": 1108125,
+                    "title": "Richard Strauss - Rosenkavalier Suite and other works",
+                    "slug": "richard-strauss-rosenkavalier-suite-and-other-works"
+                },
+                {
+                    "id": 701232,
+                    "title": "Truly, SSO",
+                    "slug": "truly-sso"
+                },
+                {
+                    "id": 701200,
+                    "title": "Debussy - Nocturnes and other works",
+                    "slug": "debussy-nocturnes-and-other-works"
+                }
+            ]
+        }
+    },
+    {
+        "entryType": "musicAlbumCollections",
+        "id": 1136794,
+        "fieldLayoutId": 156,
+        "title": "Critically Acclaimed",
+        "slug": "critically-acclaimed",
+        "sectionHandle": "musicAlbumCollections",
+        "dateCreated": {
+            "date": "2020-06-09 06:41:50.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "dateUpdated": {
+            "date": "2020-06-09 06:41:58.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "expiryDate": null,
+        "postDate": {
+            "date": "2020-06-09 06:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "author": "support@thepixelage.com",
+        "archived": false,
+        "enabled": true,
+        "status": "live",
+        "parent": null,
+        "ContentsFields": {
+            "musicAlbums": [
+                {
+                    "id": 46953,
+                    "title": "Debussy – Jeux",
+                    "slug": "debussy-jeux"
+                },
+                {
+                    "id": 46793,
+                    "title": "Debussy: La Mer",
+                    "slug": "debussy-la-mer"
+                },
+                {
+                    "id": 46751,
+                    "title": "Rachmaninov - Symphony No. 1",
+                    "slug": "rachmaninov-symphony-no1"
+                },
+                {
+                    "id": 46809,
+                    "title": "Goldmark - Rustic Wedding Symphony",
+                    "slug": "goldmark-rustic-wedding-symphony"
+                },
+                {
+                    "id": 46745,
+                    "title": "Rachmaninov - Symphony No. 2",
+                    "slug": "rachmaninov-symphony-no2"
+                },
+                {
+                    "id": 46721,
+                    "title": "Rachmaninov - Symphony No. 3",
+                    "slug": "rachmaninov-symphony-no3"
+                },
+                {
+                    "id": 46705,
+                    "title": "Dvorak: Cello Concerto, Silent Woods - Brahms: Academic Festival Overture (Live In Singapore / 2012)",
+                    "slug": "dvorak-cello-concerto-silent-woods-brahms-academic-festival-overture-live-in-singapore-2012"
+                },
+                {
+                    "id": 46757,
+                    "title": "Seascapes - Symphonic Sea Pictures",
+                    "slug": "seascapes-symphonic-sea-pictures"
+                }
+            ]
+        }
+    },
+    {
+        "entryType": "musicAlbumCollections",
+        "id": 1136798,
+        "fieldLayoutId": 156,
+        "title": "For Families and Beginners",
+        "slug": "for-families-and-beginners",
+        "sectionHandle": "musicAlbumCollections",
+        "dateCreated": {
+            "date": "2020-06-09 06:43:03.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "dateUpdated": {
+            "date": "2020-06-09 06:43:03.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "expiryDate": null,
+        "postDate": {
+            "date": "2020-06-09 06:42:00.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "author": "support@thepixelage.com",
+        "archived": false,
+        "enabled": true,
+        "status": "live",
+        "parent": null,
+        "ContentsFields": {
+            "musicAlbums": [
+                {
+                    "id": 46921,
+                    "title": "SSCC: And I'll Sing Once More",
+                    "slug": "and-ill-sing-once-more"
+                },
+                {
+                    "id": 46947,
+                    "title": "Tchaikovsky's Ballet Music",
+                    "slug": "tchaikovskys-ballet-music"
+                },
+                {
+                    "id": 46933,
+                    "title": "Saint-Saëns: Carnival of the Animals / Britten: Young Person's Guide to the Orchestra",
+                    "slug": "saint-saens-carnival-of-the-animals-britten-young-persons-guide-to-the-orchestra"
+                },
+                {
+                    "id": 46940,
+                    "title": "Saint-Saëns: Carnival of the Animals (Mandarin Recording)",
+                    "slug": "saint-saens-carnival-of-the-animals-mandarin-recording"
+                },
+                {
+                    "id": 46717,
+                    "title": "Salut D'amour: Best-Loved Classics",
+                    "slug": "salut-damour-best-loved-classics"
+                },
+                {
+                    "id": 46711,
+                    "title": "Butterfly Lovers Violin Concerto - Tchaikovsky: Violin Concerto",
+                    "slug": "butterfly-lovers-violin-concerto-tchaikovsky-violin-concerto"
+                }
+            ]
+        }
+    },
+    {
+        "entryType": "musicAlbumCollections",
+        "id": 1136801,
+        "fieldLayoutId": 156,
+        "title": "Contemporary",
+        "slug": "contemporary",
+        "sectionHandle": "musicAlbumCollections",
+        "dateCreated": {
+            "date": "2020-06-09 06:44:16.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "dateUpdated": {
+            "date": "2020-06-09 06:44:16.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "expiryDate": null,
+        "postDate": {
+            "date": "2020-06-09 06:43:00.000000",
+            "timezone_type": 3,
+            "timezone": "Asia/Singapore"
+        },
+        "author": "support@thepixelage.com",
+        "archived": false,
+        "enabled": true,
+        "status": "live",
+        "parent": null,
+        "ContentsFields": {
+            "musicAlbums": [
+                {
+                    "id": 46819,
+                    "title": "Stucky - Pinturas de Tamayo",
+                    "slug": "stucky-pinturas-de-tamayo"
+                },
+                {
+                    "id": 46847,
+                    "title": "Zhou Long - Rhymes",
+                    "slug": "zhou-long-rhymes"
+                },
+                {
+                    "id": 46851,
+                    "title": "Dances of Our Time - orchestral music",
+                    "slug": "dances-of-our-time-orchestral-music"
+                },
+                {
+                    "id": 46857,
+                    "title": "Chen Yi - Momentum",
+                    "slug": "chen-yi-momentum"
+                },
+                {
+                    "id": 46887,
+                    "title": "Bright Sheng: Flute Moon - China Dreams - Postcards",
+                    "slug": "bright-sheng-flute-moon-china-dreams-postcards"
+                }
+            ]
+        }
+    }
+]
